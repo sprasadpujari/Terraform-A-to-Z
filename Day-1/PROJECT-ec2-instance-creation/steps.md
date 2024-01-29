@@ -46,3 +46,7 @@ terraform destroy
 ```
 
 Be cautious when using `terraform destroy` as it will delete resources as specified in your Terraform configuration.
+
+For more details please follow my Blogs in detail for this project with proper steps 
+
+https://hashnode.com/post/clr2fcg5m00060ajne1f07rcq
